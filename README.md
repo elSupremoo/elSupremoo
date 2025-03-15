@@ -45,6 +45,6 @@ Many more!
 ---
 
 ## 📫 Get in Touch  
-- 📧 [My email](mailto:suprim30201@gmail.com)  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/supremedallakoti/)  
-- 🌍 [GeoGuessr Profile]((https://www.geoguessr.com/user/627913b9296833fe3404b814))
+- 📧 [My email](mailto:suprim30201@gmail.com)
+- 💼 *([LinkedIn](https://www.linkedin.com/in/supremedallakoti/))* 
+- 🌍 *([GeoGuessr](https://www.geoguessr.com/user/627913b9296833fe3404b814))* 
