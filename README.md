@@ -24,7 +24,7 @@ Here are some of the coolest projects I’ve worked on:
 Optimizes road trips by calculating the most cost-effective gas stops to save money and improve fuel efficiency.  
 👉 *[Repo Link](https://github.com/elSupremoo/fuelwise)*  
 
-### 🚀 **KLK** *(Flutter)*  
+### 🚀 **KLIK** *(Flutter)*  
 Find the one you klik with.
 👉 *([#](https://klik.singles/))* 
 
