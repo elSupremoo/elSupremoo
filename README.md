@@ -26,7 +26,7 @@ Optimizes road trips by calculating the most cost-effective gas stops to save mo
 
 ### 🚀 **KLIK** *(Flutter)*  
 Find the one you klik with.
-👉 *([#](https://klik.singles/))* 
+👉 *([#](https://klikdate.com/))* 
 
 ### 🚀 **DormieGigs** *(Flutter)*  
 A platform where college students can post and accept odd jobs to help each other out.
