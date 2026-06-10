@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I'm a junior CS student at **Fisk University** with a **3.87 GPA** and a passion for building impactful tech solutions. My expertise lies in **mobile development** (Android + iOS) using **Flutter, Kotlin, Dart, and Java**. I’m always excited about blending technology with real-world problems — whether it’s helping people find the cheapest gas for a road trip or help college students be useful to one another.
+I'm a CS graduate from **Fisk University** with a **3.91 GPA** and a passion for building impactful tech solutions. My expertise lies in **mobile development** (Android + iOS) using **Flutter, Kotlin, Dart, and Java**. I’m always excited about blending technology with real-world problems — whether it’s helping people find the cheapest gas for a road trip or help college students be useful to one another.
 
 ### 🌟 Highlights:
 - 💼 Experience in **Flutter**, **Android SDK**, and **Jetpack Compose** 
